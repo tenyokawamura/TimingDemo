@@ -1,4 +1,3 @@
-from tsproperty import *
 from tsgeneration import *
 import sys
 from sys import argv
